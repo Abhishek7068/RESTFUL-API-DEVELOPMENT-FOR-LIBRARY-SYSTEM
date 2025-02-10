@@ -26,8 +26,10 @@ This guide explains how the API is structured, how it connects to MongoDB, and h
 6. Body-parser & CORS – Middleware for handling JSON data and cross-origin requests.
 
 ### Setting Up the Project
-1. Initialize a Node.js project: npm init -y
-2. Install required dependencies: npm install express mongoose dotenv body-parser cors
+1. Initialize a Node.js project:
+    npm init -y
+2. Install required dependencies:
+   npm install express mongoose dotenv body-parser cors
 3. Set up the server (server.js).
 
 ### Database Connection (config/db.js)
