@@ -76,7 +76,14 @@ This API supports CRUD operations on books.
         Method: DELETE
         URL: http://localhost:3000/api/books/{book_id}
 ### Conclusion
-This Library RESTful API efficiently manages book records using Express.js, MongoDB, and Mongoose. It supports full CRUD operations, enabling users to add, retrieve, update, and delete books. With Postman, developers can test API endpoints before integrating them into a frontend application.
+This Library RESTful API efficiently manages book records using Express.js, MongoDB, and Mongoose. It supports full CRUD operations, enabling users to add, retrieve, update, and delete books. With Postman, developers can test API endpoints before integrating them into a front-end application.
+
+## OUTPUT
+![Image](https://github.com/user-attachments/assets/8e4a7c96-1905-470e-a692-dbcc9cc1c8f6)
+![Image](https://github.com/user-attachments/assets/5892ad3a-4cfe-488c-ba29-94e696281851)
+![Image](https://github.com/user-attachments/assets/6c68f007-a2e0-4131-add0-ccafa162932f)
+![Image](https://github.com/user-attachments/assets/25fb29b5-8ceb-4a6c-a626-a9a59d5b5dbc)
+![Image](https://github.com/user-attachments/assets/010f5b2e-364e-4fa2-8be1-aa30bc977746)
 
 This API can be expanded further by adding authentication, pagination, search filters, and user roles to enhance security and usability.
 
